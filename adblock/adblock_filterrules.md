@@ -10,7 +10,7 @@
 
 ###使用方法
 点击abBlock的图标，选择屏蔽此页面上的广告
-![](images/adblock_mainmenu.png)
+![](https://github.com/zhaoqingqing/toolset/blob/master/adblock/adblock_mainmenu.png)
 ###屏蔽163博客广告
 (!)屏蔽163博客右侧广告 这行是注释
 
