@@ -1,11 +1,12 @@
 #包含内容
 * adblock(广告屏蔽)
 
-日后会加入更多的小工具
-##adblock(广告屏蔽)
+PS:日后会加入更多的小工具
+#adblock(广告屏蔽)
 * 自定义AdBlock：chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/options/index.html
 * Adblock Plus过滤规则语法文档：https://adblockplus.org/zh_CN/filters#elemhide_domains
 * adblock文档：https://adblockplus.org/zh_CN/documentation
+
 ###文件说明
 * adblock_custom.txt url:https://cdn.adblockcdn.com/filters/adblock_custom.txt  AdBlock 自订过滤清单
 * easylist.txt url:https://easylist-downloads.adblockplus.org/easylist.txt
@@ -17,7 +18,7 @@
 
 ![](https://github.com/zhaoqingqing/toolset/blob/master/adblock/adblock_mainmenu.png)
 ###屏蔽163博客广告
-(!)屏蔽163博客右侧广告 这行是注释
+见 adblock\qingqing_adblock.txt
 
 ###adblock源码
 http://code.getadblock.com/releases/
