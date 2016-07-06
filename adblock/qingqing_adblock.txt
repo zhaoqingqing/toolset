@@ -5,6 +5,7 @@ blog.163.com##DIV[id="r_mlofteriframe2"][class="f-trans m-lofteriframe m-lofteri
 blog.163.com##DIV[class="bg"]
 blog.163.com##DIV[class="m-regGuideLayer f-trans js-show-regGuideLayer"]
 blog.163.com##A[class="dlditm"]
-! 51cto博客
+! 其它
 blog.51cto.com##IMG[src="http://s3.51cto.com/wyfs02/M02/6C/56/wKioL1VHFCjRwiyNAAB-jIackwQ674.jpg"]
 blog.51cto.com##IMG[src="http://s3.51cto.com/wyfs02/M00/83/0D/wKioL1dp8MOwSK3yAAEqRqaBG2M647.jpg"]
+www.win7china.com##IFRAME[class="hl_ad"]
