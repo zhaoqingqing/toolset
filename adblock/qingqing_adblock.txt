@@ -1,6 +1,5 @@
 ﻿! 网易163博客
 blog.163.com##DIV[id="r_mlofteriframe"][class="m-lofteriframe"]
-blog.163.com##DIV[id="r_mlofteriframe"][class="m-lofteriframe"]
 blog.163.com##DIV[id="r_m163news"][class="m-163news"]
 blog.163.com##DIV[id="r_mlofteriframe2"][class="f-trans m-lofteriframe m-lofteriframe-2"]
 blog.163.com##DIV[class="bg"]
