@@ -1,5 +1,5 @@
 ﻿@@||v.youku.com/$document
-! 163博客
+! 博客类
 blog.163.com##DIV[class="bg"]
 blog.163.com##IFRAME[id="r_lofteriframe"]
 blog.163.com##DIV[class="m-regGuideLayer f-trans js-show-regGuideLayer"]
@@ -9,6 +9,7 @@ blog.51cto.com##IMG[src="http://s3.51cto.com/wyfs02/M02/6C/56/wKioL1VHFCjRwiyNAA
 blog.51cto.com##IMG[src="http://s3.51cto.com/wyfs02/M00/83/0D/wKioL1dp8MOwSK3yAAEqRqaBG2M647.jpg"]
 www.win7china.com##IFRAME[class="hl_ad"]
 blog.163.com##A[class="dlditm"]
+! 招聘类
 www.51job.com##DIV[class="ad_xz_left"]
 www.51job.com##DIV[id="ad_a"]
 www.51job.com##DIV[id="ad_b"]
@@ -17,4 +18,6 @@ www.51job.com##DIV[id="ad_d"]
 www.51job.com##DIV[id="famous"]
 www.51job.com##DIV[class="lastscreen"]
 www.51job.com##DIV[id="SlipLay"]
-!招聘类
+! 其它
+49you.com##DIV[id="ad-yeyou-nitifiction"][class="classNameForSetLinkSearch"]
+www.newtonsoft.com##IMG[src="/content/images/notices/a1.jpg"]
