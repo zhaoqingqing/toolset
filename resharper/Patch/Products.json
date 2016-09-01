@@ -1,0 +1,55 @@
+[
+  {
+    "Name": "0xDBE",
+    "FileName": "0xdbe.jar"
+  },
+  {
+    "Name": "CLion",
+    "FileName": "clion.jar"
+  },
+  {
+    "Name": "IntelliJ IDEA",
+    "FileName": "idea.jar"
+  },
+  {
+    "Name": "PhpStorm",
+    "FileName": "phpstorm.jar"
+  },
+  {
+    "Name": "PyCharm",
+    "FileName": "pycharm.jar"
+  },
+  {
+    "Name": "RubyMine",
+    "FileName": "rubymine.jar"
+  },
+  {
+    "Name": "WebStorm",
+    "FileName": "webstorm.jar"
+  }
+  //,{
+  //  "Name": "AppCode",
+  //  "FilePath": "\\AppCode\\lib\\appcode.jar"
+  //}
+  ,
+  {
+    "Name": "dotCover",
+    "FilePath": "%LocalAppData%\\JetBrains\\Installations\\dotCover04\\JetBrains.Platform.Shell.dll"
+  },
+  {
+    "Name": "dotMemory",
+    "FilePath": "%LocalAppData%\\JetBrains\\Installations\\dotMemory04\\JetBrains.Platform.Shell.dll"
+  },
+  {
+    "Name": "dotTrace",
+    "FilePath": "%LocalAppData%\\JetBrains\\Installations\\dotTrace04\\JetBrains.Platform.Shell.dll"
+  },
+  {
+    "Name": "ReSharper",
+    "FilePath": "%LocalAppData%\\JetBrains\\Installations\\ReSharperPlatformVs14\\JetBrains.Platform.Shell.dll"
+  },
+  {
+    "Name": "ReSharper",
+    "FilePath": "%LocalAppData%\\JetBrains\\Installations\\ReSharperPlatformVs14_000\\JetBrains.Platform.Shell.dll"
+  }
+]
