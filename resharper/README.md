@@ -10,3 +10,25 @@ JetBrains ReSharper Ultimate Edition v10.0
 6. user name中填入自己的用户名[可随意]，License key一栏中粘贴 **Serial.txt** 中的全部内容
 7. 信息填写完整之后，点击右上角的 **Add** 以保存License
 
+
+下载地址：[http://www.wuleba.com/?s=resharper](http://www.wuleba.com/?s=resharper)
+
+### ReSharper 10.0.0.2 Ultimate
+
+http://www.wuleba.com/26727.html
+
+crack方法可用上用的步骤。
+
+### ReSharper 2016.2 Ultimate 
+
+http://www.wuleba.com/28283.html
+
+这个版本的crack 难度比较大
+
+
+
+### ReSharper历史版本
+
+https://resharper-support.jetbrains.com/hc/en-us/articles/207242355-Where-can-I-download-an-old-previous-ReSharper-version-
+
+最新版本：https://www.jetbrains.com/resharper/download/
