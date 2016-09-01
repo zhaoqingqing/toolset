@@ -17,15 +17,15 @@ JetBrains ReSharper Ultimate Edition v10.0
 
 http://www.wuleba.com/26727.html
 
-crack方法可用上用的步骤。
+crack方法可以使用上面提到的步骤。
 
 ### ReSharper 2016.2 Ultimate 
 
 http://www.wuleba.com/28283.html
 
-这个版本的crack 难度比较大
+这个版本的crack 难度比较大。
 
-
+大概思路：在本地开启一个验证服务器，让Resharper在本地验证，但exe需要一直开启。
 
 ### ReSharper历史版本
 
