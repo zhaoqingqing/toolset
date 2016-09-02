@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00 
+[HKEY_CLASSES_ROOT\Directory\shell\DOS] 
+@="在此处打开命令行" 
+[HKEY_CLASSES_ROOT\Directory\shell\DOS\command] 
+@="cmd.exe /k \"cd %l\""
