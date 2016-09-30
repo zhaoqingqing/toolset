@@ -51,5 +51,9 @@
   {
     "Name": "ReSharper",
     "FilePath": "%LocalAppData%\\JetBrains\\Installations\\ReSharperPlatformVs14_000\\JetBrains.Platform.Shell.dll"
+  }, 
+  {
+    "Name": "dotPeek",
+    "FilePath": "%LocalAppData%\\JetBrains\\Installations\\dotPeek04\\JetBrains.Platform.Shell.dll"
   }
 ]
