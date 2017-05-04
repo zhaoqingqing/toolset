@@ -7,6 +7,7 @@
 @@||map.baidu.com/$document
 @@||www.zhihu.com/$document
 @@||git.oschina.net/$document
+@@||github.com/$document
 ! 163博客
 blog.163.com##DIV[class="bg"]
 blog.163.com##IFRAME[id="r_lofteriframe"]
