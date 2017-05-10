@@ -1,4 +1,5 @@
-﻿@@||v.youku.com/$document
+﻿@@||github.com/$document
+@@||v.youku.com/$document
 @@||127.0.0.1:5000/$document
 @@||zhaoqingqing.github.io/$document
 @@||my.51job.com/$document
@@ -7,7 +8,9 @@
 @@||map.baidu.com/$document
 @@||www.zhihu.com/$document
 @@||git.oschina.net/$document
-@@||github.com/$document
+@@||www.zeguoren.com/$document
+@@||www.assetstore.unity3d.com/$document
+@@||unity3d.com/$document
 ! 163博客
 blog.163.com##DIV[class="bg"]
 blog.163.com##IFRAME[id="r_lofteriframe"]
@@ -24,6 +27,6 @@ www.51job.com##DIV[id="ad_d"]
 www.51job.com##DIV[id="famous"]
 www.51job.com##DIV[class="lastscreen"]
 www.51job.com##DIV[id="SlipLay"]
-!招聘类
 49you.com##DIV[id="ad-yeyou-nitifiction"][class="classNameForSetLinkSearch"]
 www.newtonsoft.com##IMG[src="/content/images/notices/a1.jpg"]
+!招聘类
