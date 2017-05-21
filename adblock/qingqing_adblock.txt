@@ -8,6 +8,8 @@
 @@||map.baidu.com/$document
 @@||www.zhihu.com/$document
 @@||git.oschina.net/$document
+@@||www.cnpzhe.com/$document
+@@||list.suning.com/$document
 @@||www.zeguoren.com/$document
 @@||www.assetstore.unity3d.com/$document
 @@||unity3d.com/$document
