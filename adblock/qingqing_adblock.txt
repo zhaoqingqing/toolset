@@ -1,4 +1,7 @@
-﻿@@||github.com/$document
+﻿blog.csdn.net##IFRAME[id="iframeu2895327_0"]
+@@||hwid1.vmall.com/$document
+@@|http://www.cnblogs.com/zhaoqingqing/$document
+@@||github.com/$document
 @@||v.youku.com/$document
 @@||127.0.0.1:5000/$document
 @@||zhaoqingqing.github.io/$document
