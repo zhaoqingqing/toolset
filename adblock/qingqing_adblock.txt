@@ -1,5 +1,4 @@
-﻿blog.csdn.net##IFRAME[id="iframeu2895327_0"]
-@@||hwid1.vmall.com/$document
+﻿@@||hwid1.vmall.com/$document
 @@|http://www.cnblogs.com/zhaoqingqing/$document
 @@||github.com/$document
 @@||v.youku.com/$document
@@ -13,6 +12,12 @@
 @@||git.oschina.net/$document
 @@||www.cnpzhe.com/$document
 @@||list.suning.com/$document
+@@||mobile.zol.com.cn/$document
+@@||www.amazon.cn/$document
+@@||www.cnbeta.com/$document
+@@||ztj.qq.com/$document
+@@||mall.phicomm.com/$document
+@@||www.phicomm.com/$document
 @@||www.zeguoren.com/$document
 @@||www.assetstore.unity3d.com/$document
 @@||unity3d.com/$document
