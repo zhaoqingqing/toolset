@@ -1,4 +1,21 @@
 ﻿blog.csdn.net##IFRAME[id="iframeu2895327_0"]
+blog.163.com##DIV[class="bg"]
+blog.163.com##IFRAME[id="r_lofteriframe"]
+blog.163.com##DIV[class="m-regGuideLayer f-trans js-show-regGuideLayer"]
+blog.163.com##DIV[id="r_m163news"][class="m-163news"]
+blog.163.com##DIV[id="r_mlofteriframe"][class="m-lofteriframe"]
+www.win7china.com##IFRAME[class="hl_ad"]
+blog.163.com##A[class="dlditm"]
+www.51job.com##DIV[class="ad_xz_left"]
+www.51job.com##DIV[id="ad_a"]
+www.51job.com##DIV[id="ad_b"]
+www.51job.com##DIV[id="ad_c"]
+www.51job.com##DIV[id="ad_d"]
+www.51job.com##DIV[id="famous"]
+www.51job.com##DIV[class="lastscreen"]
+www.51job.com##DIV[id="SlipLay"]
+49you.com##DIV[id="ad-yeyou-nitifiction"][class="classNameForSetLinkSearch"]
+www.newtonsoft.com##IMG[src="/content/images/notices/a1.jpg"]
 @@||hwid1.vmall.com/$document
 @@|http://www.cnblogs.com/zhaoqingqing/$document
 @@||github.com/$document
@@ -17,21 +34,4 @@
 @@||www.assetstore.unity3d.com/$document
 @@||unity3d.com/$document
 ! 163博客
-blog.163.com##DIV[class="bg"]
-blog.163.com##IFRAME[id="r_lofteriframe"]
-blog.163.com##DIV[class="m-regGuideLayer f-trans js-show-regGuideLayer"]
-blog.163.com##DIV[id="r_m163news"][class="m-163news"]
-blog.163.com##DIV[id="r_mlofteriframe"][class="m-lofteriframe"]
-www.win7china.com##IFRAME[class="hl_ad"]
-blog.163.com##A[class="dlditm"]
-www.51job.com##DIV[class="ad_xz_left"]
-www.51job.com##DIV[id="ad_a"]
-www.51job.com##DIV[id="ad_b"]
-www.51job.com##DIV[id="ad_c"]
-www.51job.com##DIV[id="ad_d"]
-www.51job.com##DIV[id="famous"]
-www.51job.com##DIV[class="lastscreen"]
-www.51job.com##DIV[id="SlipLay"]
-49you.com##DIV[id="ad-yeyou-nitifiction"][class="classNameForSetLinkSearch"]
-www.newtonsoft.com##IMG[src="/content/images/notices/a1.jpg"]
 !招聘类
