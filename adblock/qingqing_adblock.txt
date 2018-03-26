@@ -39,4 +39,9 @@ www.51job.com##DIV[class="lastscreen"]
 www.51job.com##DIV[id="SlipLay"]
 49you.com##DIV[id="ad-yeyou-nitifiction"][class="classNameForSetLinkSearch"]
 www.newtonsoft.com##IMG[src="/content/images/notices/a1.jpg"]
+||lofter.com/mailEntry.do?blogad2=1&blog&v=9
+liweizhaolili.blog.163.com###r_mlofteriframe
+liweizhaolili.blog.163.com##.m-lofteriframe
+liweizhaolili.blog.163.com###r_m163news
+liweizhaolili.blog.163.com##.m-163news
 !招聘类
