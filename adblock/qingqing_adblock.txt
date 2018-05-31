@@ -21,7 +21,11 @@
 @@||www.zeguoren.com/$document
 @@||www.assetstore.unity3d.com/$document
 @@||unity3d.com/$document
-! 163博客
+||lofter.com/mailEntry.do?blogad2=1&blog&v=9
+liweizhaolili.blog.163.com###r_mlofteriframe
+liweizhaolili.blog.163.com##.m-lofteriframe
+liweizhaolili.blog.163.com###r_m163news
+liweizhaolili.blog.163.com##.m-163news
 blog.163.com##DIV[class="bg"]
 blog.163.com##IFRAME[id="r_lofteriframe"]
 blog.163.com##DIV[class="m-regGuideLayer f-trans js-show-regGuideLayer"]
@@ -39,9 +43,6 @@ www.51job.com##DIV[class="lastscreen"]
 www.51job.com##DIV[id="SlipLay"]
 49you.com##DIV[id="ad-yeyou-nitifiction"][class="classNameForSetLinkSearch"]
 www.newtonsoft.com##IMG[src="/content/images/notices/a1.jpg"]
-||lofter.com/mailEntry.do?blogad2=1&blog&v=9
-liweizhaolili.blog.163.com###r_mlofteriframe
-liweizhaolili.blog.163.com##.m-lofteriframe
-liweizhaolili.blog.163.com###r_m163news
-liweizhaolili.blog.163.com##.m-163news
+baidu.com##.c-table.opr-toplist-table
+! 163博客
 !招聘类
