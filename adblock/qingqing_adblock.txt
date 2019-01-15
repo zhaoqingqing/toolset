@@ -2,6 +2,7 @@
 @@|http://www.cnblogs.com/zhaoqingqing/$document
 @@||github.com/$document
 @@||v.youku.com/$document
+@@tapd.cn$document
 @@||127.0.0.1:5000/$document
 @@||zhaoqingqing.github.io/$document
 @@||my.51job.com/$document
