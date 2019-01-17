@@ -46,5 +46,6 @@ www.51job.com##DIV[id="SlipLay"]
 www.newtonsoft.com##IMG[src="/content/images/notices/a1.jpg"]
 baidu.com##.c-table.opr-toplist-table
 blog.csdn.net##.adblock
+www.baidu.com##TD
 ! 163博客
 !招聘类
