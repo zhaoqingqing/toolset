@@ -15,7 +15,6 @@
 @@||list.suning.com/$document
 @@||mobile.zol.com.cn/$document
 @@||www.amazon.cn/$document
-@@||www.cnbeta.com/$document
 @@||ztj.qq.com/$document
 @@||mall.phicomm.com/$document
 @@||www.phicomm.com/$document
@@ -23,6 +22,8 @@
 @@||www.assetstore.unity3d.com/$document
 @@||unity3d.com/$document
 ||lofter.com/mailEntry.do?blogad2=1&blog&v=9
+! 163博客
+!招聘类
 liweizhaolili.blog.163.com###r_mlofteriframe
 liweizhaolili.blog.163.com##.m-lofteriframe
 liweizhaolili.blog.163.com###r_m163news
@@ -47,5 +48,3 @@ www.newtonsoft.com##IMG[src="/content/images/notices/a1.jpg"]
 baidu.com##.c-table.opr-toplist-table
 blog.csdn.net##.adblock
 www.baidu.com##TD
-! 163博客
-!招聘类
