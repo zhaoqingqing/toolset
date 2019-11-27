@@ -1,6 +1,10 @@
-## adblock(广告屏蔽)
 
-我平时使用拦截广告的扩展AdBlock
+
+建议使用Adblock Plus
+
+## adblock Plus(广告屏蔽)
+
+我平时使用拦截广告的扩展AdBlock Plus
 
 * 自定义AdBlock：chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/options/index.html
 * Adblock Plus过滤规则语法文档：https://adblockplus.org/zh_CN/filters#elemhide_domains
